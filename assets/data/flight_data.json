@@ -1,0 +1,464 @@
+[
+  {
+    "departureDetails": {
+      "flightName": "Garuda Indonesia",
+      "startTime": "14:35",
+      "endTime": "22:55",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "2 Stops"
+    },
+    "returnDetails": {
+      "flightName": "Garuda Indonesia",
+      "startTime": "14:35",
+      "endTime": "22:55",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "2 Stops"
+    },
+    "selectedDate": "2024-12-12"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Emirates",
+      "startTime": "07:00",
+      "endTime": "13:25",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 55m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Emirates",
+      "startTime": "08:50",
+      "endTime": "15:10",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 40m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-13"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Qatar Airways",
+      "startTime": "12:10",
+      "endTime": "18:50",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 40m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Qatar Airways",
+      "startTime": "17:30",
+      "endTime": "23:10",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 40m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-14"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Singapore Airlines",
+      "startTime": "22:00",
+      "endTime": "05:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Singapore Airlines",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-15"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Air India",
+      "startTime": "10:30",
+      "endTime": "17:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Air India",
+      "startTime": "14:45",
+      "endTime": "20:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-16"
+  },
+  {
+    "departureDetails": {
+      "flightName": "IndiGo",
+      "startTime": "05:30",
+      "endTime": "12:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "IndiGo",
+      "startTime": "09:00",
+      "endTime": "15:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-17"
+  },
+  {
+    "departureDetails": {
+      "flightName": "FlyDubai",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "FlyDubai",
+      "startTime": "20:00",
+      "endTime": "02:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-18"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Turkish Airlines",
+      "startTime": "23:30",
+      "endTime": "06:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Turkish Airlines",
+      "startTime": "06:30",
+      "endTime": "13:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-19"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Oman Air",
+      "startTime": "08:00",
+      "endTime": "14:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Oman Air",
+      "startTime": "12:30",
+      "endTime": "19:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-20"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Etihad Airways",
+      "startTime": "15:00",
+      "endTime": "21:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Etihad Airways",
+      "startTime": "16:00",
+      "endTime": "22:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-21"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Jet Airways",
+      "startTime": "06:00",
+      "endTime": "12:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Jet Airways",
+      "startTime": "07:30",
+      "endTime": "14:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-22"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Garuda Indonesia",
+      "startTime": "14:35",
+      "endTime": "22:55",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "2 Stops"
+    },
+    "returnDetails": {
+      "flightName": "Garuda Indonesia",
+      "startTime": "14:35",
+      "endTime": "22:55",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "2 Stops"
+    },
+    "selectedDate": "2024-12-12"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Emirates",
+      "startTime": "07:00",
+      "endTime": "13:25",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 55m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Emirates",
+      "startTime": "08:50",
+      "endTime": "15:10",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 40m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-13"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Qatar Airways",
+      "startTime": "12:10",
+      "endTime": "18:50",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 40m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Qatar Airways",
+      "startTime": "17:30",
+      "endTime": "23:10",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 40m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-14"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Singapore Airlines",
+      "startTime": "22:00",
+      "endTime": "05:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Singapore Airlines",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-15"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Air India",
+      "startTime": "10:30",
+      "endTime": "17:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Air India",
+      "startTime": "14:45",
+      "endTime": "20:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-16"
+  },
+  {
+    "departureDetails": {
+      "flightName": "IndiGo",
+      "startTime": "05:30",
+      "endTime": "12:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "IndiGo",
+      "startTime": "09:00",
+      "endTime": "15:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-17"
+  },
+  {
+    "departureDetails": {
+      "flightName": "FlyDubai",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "FlyDubai",
+      "startTime": "20:00",
+      "endTime": "02:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-18"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Turkish Airlines",
+      "startTime": "23:30",
+      "endTime": "06:00",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Turkish Airlines",
+      "startTime": "06:30",
+      "endTime": "13:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-19"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Oman Air",
+      "startTime": "08:00",
+      "endTime": "14:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Oman Air",
+      "startTime": "12:30",
+      "endTime": "19:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-20"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Etihad Airways",
+      "startTime": "15:00",
+      "endTime": "21:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "4h 30m",
+      "stopCount": "1 Stop"
+    },
+    "returnDetails": {
+      "flightName": "Etihad Airways",
+      "startTime": "16:00",
+      "endTime": "22:30",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "4h 30m",
+      "stopCount": "1 Stop"
+    },
+    "selectedDate": "2024-12-21"
+  },
+  {
+    "departureDetails": {
+      "flightName": "Jet Airways",
+      "startTime": "06:00",
+      "endTime": "12:30",
+      "fromLocation": "BLR - Bangalore",
+      "toLocation": "DXB - Dubai",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "returnDetails": {
+      "flightName": "Jet Airways",
+      "startTime": "07:30",
+      "endTime": "14:00",
+      "fromLocation": "DXB - Dubai",
+      "toLocation": "BLR - Bangalore",
+      "duration": "5h 0m",
+      "stopCount": "Direct"
+    },
+    "selectedDate": "2024-12-22"
+  }
+]
